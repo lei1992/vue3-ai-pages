@@ -4,6 +4,7 @@ import { resolve } from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/vue3-ai-pages',
   plugins: [vue()],
   resolve: {
     alias: {
