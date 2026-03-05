@@ -1,6 +1,6 @@
 # 纯AI搭建的vue3项目
 
-# github 静态网站CI/CD
+# Github Action 打包 Vue3 项目并部署 Github Pages
 
 参考文档：https://juejin.cn/post/7346524071185006611?searchId=20260304115932B1397D50C22F5825CF10
 详细步骤如下：
