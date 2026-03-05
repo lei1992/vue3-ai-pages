@@ -20,3 +20,6 @@
    settings -> pages -> Build and deployment (source) -> deploy from a branch (选择Github Actions) -> save
 2. 创建Github Actions的配置
    settings -> pages -> Build and deployment -> static html (点击configure),会帮我们生成了一个最基本的配置(.github/workflows/static.yml)，点击commit changes提交配置文件，提交后点击actions，可以看到构建的日志，至此简单的 github actions 配置完成
+
+修改为https地址：`git remote set-url origin https://github.com/lei1992/vue3-ai-pages.git`
+修改为ssh地址：`git remote set-url origin git@github.com:lei1992/vue3-ai-pages.git`
